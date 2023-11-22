@@ -4,9 +4,12 @@
   background: white;
   border-radius: 32px;
   padding: 3px;
-  position: relative;
+  position: fixed;
+  top: 50px;
+  left: 650px;
   box-shadow: #604b4a30 0px 70px 30px -50px;
   transition: all 0.5s ease-in-out;
+
 }
 
 .card .mail {

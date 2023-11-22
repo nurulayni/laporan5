@@ -1,4 +1,26 @@
-.card {
+body {
+  margin: 0; /* Remove default margin */
+  font-family: Arial, sans-serif; /* Use a common font */
+}
+
+header {
+  background-color: #333; /* Dark background color for the header */
+  color: #fff; /* White text color */
+  padding: 1em; /* Add some padding to the header */
+  text-align: center; /* Center-align text */
+}
+
+footer {
+  background-color: #333; /* Dark background color for the footer */
+  color: #fff; /* White text color */
+  padding: 1em; /* Add some padding to the footer */
+  text-align: center; /* Center-align text */
+  position: fixed; /* Fix the footer to the bottom of the viewport */
+  width: 100%; /* Full width */
+  bottom: 0;
+  /* Stick to the bottom */
+}
+        .card {
   width: 280px;
   height: 280px;
   background: white;

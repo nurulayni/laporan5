@@ -4,14 +4,14 @@ body {
 }
 
 header {
-  background-color: #333; /* Dark background color for the header */
+  background-color: #B06161; /* Dark background color for the header */
   color: #fff; /* White text color */
   padding: 1em; /* Add some padding to the header */
   text-align: center; /* Center-align text */
 }
 
 footer {
-  background-color: #333; /* Dark background color for the footer */
+  background-color: #B06161; /* Dark background color for the footer */
   color: #fff; /* White text color */
   padding: 1em; /* Add some padding to the footer */
   text-align: center; /* Center-align text */
